@@ -2,14 +2,11 @@
 #include <iostream>
 using namespace std;
 
-
 float Phi = 3.14159;
-
 
 float HitungLuas(float r){
     return Phi * r * r;
 }
-
 
 void Lingkaran(){
 
