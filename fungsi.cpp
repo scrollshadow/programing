@@ -21,7 +21,7 @@ void Lingkaran(){
     cout  <<"LuasLingkaran = " << luas << endl;
 
 }
-//mulai
+
 int main(){
     Lingkaran();
     return 0;
