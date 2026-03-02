@@ -16,7 +16,7 @@ void Lingkaran(){
     float jarijari;
     cout <<"Masukkan jarijari: ";  
     cin >> jarijari;
-//output
+
     float luas = HitungLuas(jarijari);
     cout  <<"LuasLingkaran = " << luas << endl;
 
