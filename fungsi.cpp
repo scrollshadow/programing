@@ -10,7 +10,7 @@ float HitungLuas(float r){
     return Phi * r * r;
 }
 
-//fungsi
+
 void Lingkaran(){
 //input 
     float jarijari;
