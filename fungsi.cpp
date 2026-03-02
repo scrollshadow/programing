@@ -5,7 +5,7 @@ using namespace std;
 
 float Phi = 3.14159;
 
-//fungsi input
+
 float HitungLuas(float r){
     return Phi * r * r;
 }
