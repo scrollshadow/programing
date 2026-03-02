@@ -12,7 +12,7 @@ float HitungLuas(float r){
 
 
 void Lingkaran(){
-//input 
+
     float jarijari;
     cout <<"Masukkan jarijari: ";  
     cin >> jarijari;
