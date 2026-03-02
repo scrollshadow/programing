@@ -25,4 +25,4 @@ void Lingkaran(){
 int main(){
     Lingkaran();
     return 0;
-}//selesai
+}
