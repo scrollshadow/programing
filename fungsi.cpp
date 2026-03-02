@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-//4
+
 float Phi = 3.14159;
 
 //fungsi input
